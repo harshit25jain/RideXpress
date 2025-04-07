@@ -26,40 +26,6 @@
 
 ---
 
-## ⚙️ Installation & Setup
-
-```bash
-# Navigate to Backend directory
-cd Backend
-
-# Install dependencies
-npm install
-
-# Set up your environment variables in a `.env` file
-touch .env
-# Add the required variables like:
-# PORT=5000
-# MONGODB_URI=your_mongo_uri
-# JWT_SECRET=your_jwt_secret
-
-# Run the server
-npm start
-```
-
----
-
-## ▶️ How to Run
-
-To start the backend server:
-
-```bash
-node server.js
-```
-
-Make sure MongoDB is running locally or that you have a remote MongoDB connection string in your `.env` file.
-
----
-
 ## 📁 Folder Structure
 
 ```
